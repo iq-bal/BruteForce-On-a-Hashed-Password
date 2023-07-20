@@ -16,6 +16,8 @@ this is the reason why you should never use plain and simple password.
 Always use special characters, upper and lower case alphabet simultaneously . 
 With some basic knowledge of math you can tell that will be uncrackable. 
 
+NB: in order to run the programm you have to install openssl and configure it accordingly in the Makefile 
+
 Iqbal Mahamud 
 
 KUET-CSE
